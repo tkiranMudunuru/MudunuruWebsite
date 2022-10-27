@@ -1,0 +1,28 @@
+[28-Sep-2022 11:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php:292
+Stack trace:
+#0 {main}
+  thrown in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php on line 292
+[28-Sep-2022 11:29:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php:292
+Stack trace:
+#0 {main}
+  thrown in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php on line 292
+[28-Sep-2022 11:29:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php:292
+Stack trace:
+#0 {main}
+  thrown in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php on line 292
+[28-Sep-2022 11:30:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php:292
+Stack trace:
+#0 {main}
+  thrown in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php on line 292
+[28-Sep-2022 11:30:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php:292
+Stack trace:
+#0 {main}
+  thrown in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php on line 292
+[28-Sep-2022 11:30:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php:292
+Stack trace:
+#0 {main}
+  thrown in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php on line 292
+[28-Sep-2022 11:30:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php:292
+Stack trace:
+#0 {main}
+  thrown in /home4/dreamvip/public_html/mudunuru.com/v1/contact.php on line 292
